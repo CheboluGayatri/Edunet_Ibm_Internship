@@ -1,0 +1,1001 @@
+question,answer
+What is machine learning? (1),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (2),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (3),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (4),Overfitting happens when a model memorizes training data.
+What is underfitting? (5),Underfitting occurs when a model is too simple.
+What is Python? (6),Python is a high-level programming language.
+What are Python lists? (7),Lists are ordered and mutable collections in Python.
+What is a function in Python? (8),A function is a reusable block of code.
+What is a dictionary? (9),A dictionary stores data in key-value pairs.
+What is indentation? (10),Indentation defines code blocks in Python.
+What is NLP? (11),NLP enables computers to understand human language.
+What is tokenization? (12),Tokenization splits text into words or tokens.
+What is TF-IDF? (13),TF-IDF measures word importance in documents.
+What is stemming? (14),Stemming reduces words to their root form.
+What is lemmatization? (15),Lemmatization converts words to base form.
+What is data science? (16),Data science extracts insights from data.
+What is data preprocessing? (17),Data preprocessing cleans raw data.
+What is feature extraction? (18),Feature extraction converts data into features.
+What is data visualization? (19),Visualization represents data graphically.
+What is a dataset? (20),A dataset is a collection of data.
+What is machine learning? (21),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (22),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (23),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (24),Overfitting happens when a model memorizes training data.
+What is underfitting? (25),Underfitting occurs when a model is too simple.
+What is Python? (26),Python is a high-level programming language.
+What are Python lists? (27),Lists are ordered and mutable collections in Python.
+What is a function in Python? (28),A function is a reusable block of code.
+What is a dictionary? (29),A dictionary stores data in key-value pairs.
+What is indentation? (30),Indentation defines code blocks in Python.
+What is NLP? (31),NLP enables computers to understand human language.
+What is tokenization? (32),Tokenization splits text into words or tokens.
+What is TF-IDF? (33),TF-IDF measures word importance in documents.
+What is stemming? (34),Stemming reduces words to their root form.
+What is lemmatization? (35),Lemmatization converts words to base form.
+What is data science? (36),Data science extracts insights from data.
+What is data preprocessing? (37),Data preprocessing cleans raw data.
+What is feature extraction? (38),Feature extraction converts data into features.
+What is data visualization? (39),Visualization represents data graphically.
+What is a dataset? (40),A dataset is a collection of data.
+What is machine learning? (41),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (42),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (43),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (44),Overfitting happens when a model memorizes training data.
+What is underfitting? (45),Underfitting occurs when a model is too simple.
+What is Python? (46),Python is a high-level programming language.
+What are Python lists? (47),Lists are ordered and mutable collections in Python.
+What is a function in Python? (48),A function is a reusable block of code.
+What is a dictionary? (49),A dictionary stores data in key-value pairs.
+What is indentation? (50),Indentation defines code blocks in Python.
+What is NLP? (51),NLP enables computers to understand human language.
+What is tokenization? (52),Tokenization splits text into words or tokens.
+What is TF-IDF? (53),TF-IDF measures word importance in documents.
+What is stemming? (54),Stemming reduces words to their root form.
+What is lemmatization? (55),Lemmatization converts words to base form.
+What is data science? (56),Data science extracts insights from data.
+What is data preprocessing? (57),Data preprocessing cleans raw data.
+What is feature extraction? (58),Feature extraction converts data into features.
+What is data visualization? (59),Visualization represents data graphically.
+What is a dataset? (60),A dataset is a collection of data.
+What is machine learning? (61),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (62),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (63),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (64),Overfitting happens when a model memorizes training data.
+What is underfitting? (65),Underfitting occurs when a model is too simple.
+What is Python? (66),Python is a high-level programming language.
+What are Python lists? (67),Lists are ordered and mutable collections in Python.
+What is a function in Python? (68),A function is a reusable block of code.
+What is a dictionary? (69),A dictionary stores data in key-value pairs.
+What is indentation? (70),Indentation defines code blocks in Python.
+What is NLP? (71),NLP enables computers to understand human language.
+What is tokenization? (72),Tokenization splits text into words or tokens.
+What is TF-IDF? (73),TF-IDF measures word importance in documents.
+What is stemming? (74),Stemming reduces words to their root form.
+What is lemmatization? (75),Lemmatization converts words to base form.
+What is data science? (76),Data science extracts insights from data.
+What is data preprocessing? (77),Data preprocessing cleans raw data.
+What is feature extraction? (78),Feature extraction converts data into features.
+What is data visualization? (79),Visualization represents data graphically.
+What is a dataset? (80),A dataset is a collection of data.
+What is machine learning? (81),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (82),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (83),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (84),Overfitting happens when a model memorizes training data.
+What is underfitting? (85),Underfitting occurs when a model is too simple.
+What is Python? (86),Python is a high-level programming language.
+What are Python lists? (87),Lists are ordered and mutable collections in Python.
+What is a function in Python? (88),A function is a reusable block of code.
+What is a dictionary? (89),A dictionary stores data in key-value pairs.
+What is indentation? (90),Indentation defines code blocks in Python.
+What is NLP? (91),NLP enables computers to understand human language.
+What is tokenization? (92),Tokenization splits text into words or tokens.
+What is TF-IDF? (93),TF-IDF measures word importance in documents.
+What is stemming? (94),Stemming reduces words to their root form.
+What is lemmatization? (95),Lemmatization converts words to base form.
+What is data science? (96),Data science extracts insights from data.
+What is data preprocessing? (97),Data preprocessing cleans raw data.
+What is feature extraction? (98),Feature extraction converts data into features.
+What is data visualization? (99),Visualization represents data graphically.
+What is a dataset? (100),A dataset is a collection of data.
+What is machine learning? (101),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (102),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (103),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (104),Overfitting happens when a model memorizes training data.
+What is underfitting? (105),Underfitting occurs when a model is too simple.
+What is Python? (106),Python is a high-level programming language.
+What are Python lists? (107),Lists are ordered and mutable collections in Python.
+What is a function in Python? (108),A function is a reusable block of code.
+What is a dictionary? (109),A dictionary stores data in key-value pairs.
+What is indentation? (110),Indentation defines code blocks in Python.
+What is NLP? (111),NLP enables computers to understand human language.
+What is tokenization? (112),Tokenization splits text into words or tokens.
+What is TF-IDF? (113),TF-IDF measures word importance in documents.
+What is stemming? (114),Stemming reduces words to their root form.
+What is lemmatization? (115),Lemmatization converts words to base form.
+What is data science? (116),Data science extracts insights from data.
+What is data preprocessing? (117),Data preprocessing cleans raw data.
+What is feature extraction? (118),Feature extraction converts data into features.
+What is data visualization? (119),Visualization represents data graphically.
+What is a dataset? (120),A dataset is a collection of data.
+What is machine learning? (121),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (122),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (123),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (124),Overfitting happens when a model memorizes training data.
+What is underfitting? (125),Underfitting occurs when a model is too simple.
+What is Python? (126),Python is a high-level programming language.
+What are Python lists? (127),Lists are ordered and mutable collections in Python.
+What is a function in Python? (128),A function is a reusable block of code.
+What is a dictionary? (129),A dictionary stores data in key-value pairs.
+What is indentation? (130),Indentation defines code blocks in Python.
+What is NLP? (131),NLP enables computers to understand human language.
+What is tokenization? (132),Tokenization splits text into words or tokens.
+What is TF-IDF? (133),TF-IDF measures word importance in documents.
+What is stemming? (134),Stemming reduces words to their root form.
+What is lemmatization? (135),Lemmatization converts words to base form.
+What is data science? (136),Data science extracts insights from data.
+What is data preprocessing? (137),Data preprocessing cleans raw data.
+What is feature extraction? (138),Feature extraction converts data into features.
+What is data visualization? (139),Visualization represents data graphically.
+What is a dataset? (140),A dataset is a collection of data.
+What is machine learning? (141),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (142),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (143),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (144),Overfitting happens when a model memorizes training data.
+What is underfitting? (145),Underfitting occurs when a model is too simple.
+What is Python? (146),Python is a high-level programming language.
+What are Python lists? (147),Lists are ordered and mutable collections in Python.
+What is a function in Python? (148),A function is a reusable block of code.
+What is a dictionary? (149),A dictionary stores data in key-value pairs.
+What is indentation? (150),Indentation defines code blocks in Python.
+What is NLP? (151),NLP enables computers to understand human language.
+What is tokenization? (152),Tokenization splits text into words or tokens.
+What is TF-IDF? (153),TF-IDF measures word importance in documents.
+What is stemming? (154),Stemming reduces words to their root form.
+What is lemmatization? (155),Lemmatization converts words to base form.
+What is data science? (156),Data science extracts insights from data.
+What is data preprocessing? (157),Data preprocessing cleans raw data.
+What is feature extraction? (158),Feature extraction converts data into features.
+What is data visualization? (159),Visualization represents data graphically.
+What is a dataset? (160),A dataset is a collection of data.
+What is machine learning? (161),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (162),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (163),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (164),Overfitting happens when a model memorizes training data.
+What is underfitting? (165),Underfitting occurs when a model is too simple.
+What is Python? (166),Python is a high-level programming language.
+What are Python lists? (167),Lists are ordered and mutable collections in Python.
+What is a function in Python? (168),A function is a reusable block of code.
+What is a dictionary? (169),A dictionary stores data in key-value pairs.
+What is indentation? (170),Indentation defines code blocks in Python.
+What is NLP? (171),NLP enables computers to understand human language.
+What is tokenization? (172),Tokenization splits text into words or tokens.
+What is TF-IDF? (173),TF-IDF measures word importance in documents.
+What is stemming? (174),Stemming reduces words to their root form.
+What is lemmatization? (175),Lemmatization converts words to base form.
+What is data science? (176),Data science extracts insights from data.
+What is data preprocessing? (177),Data preprocessing cleans raw data.
+What is feature extraction? (178),Feature extraction converts data into features.
+What is data visualization? (179),Visualization represents data graphically.
+What is a dataset? (180),A dataset is a collection of data.
+What is machine learning? (181),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (182),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (183),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (184),Overfitting happens when a model memorizes training data.
+What is underfitting? (185),Underfitting occurs when a model is too simple.
+What is Python? (186),Python is a high-level programming language.
+What are Python lists? (187),Lists are ordered and mutable collections in Python.
+What is a function in Python? (188),A function is a reusable block of code.
+What is a dictionary? (189),A dictionary stores data in key-value pairs.
+What is indentation? (190),Indentation defines code blocks in Python.
+What is NLP? (191),NLP enables computers to understand human language.
+What is tokenization? (192),Tokenization splits text into words or tokens.
+What is TF-IDF? (193),TF-IDF measures word importance in documents.
+What is stemming? (194),Stemming reduces words to their root form.
+What is lemmatization? (195),Lemmatization converts words to base form.
+What is data science? (196),Data science extracts insights from data.
+What is data preprocessing? (197),Data preprocessing cleans raw data.
+What is feature extraction? (198),Feature extraction converts data into features.
+What is data visualization? (199),Visualization represents data graphically.
+What is a dataset? (200),A dataset is a collection of data.
+What is machine learning? (201),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (202),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (203),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (204),Overfitting happens when a model memorizes training data.
+What is underfitting? (205),Underfitting occurs when a model is too simple.
+What is Python? (206),Python is a high-level programming language.
+What are Python lists? (207),Lists are ordered and mutable collections in Python.
+What is a function in Python? (208),A function is a reusable block of code.
+What is a dictionary? (209),A dictionary stores data in key-value pairs.
+What is indentation? (210),Indentation defines code blocks in Python.
+What is NLP? (211),NLP enables computers to understand human language.
+What is tokenization? (212),Tokenization splits text into words or tokens.
+What is TF-IDF? (213),TF-IDF measures word importance in documents.
+What is stemming? (214),Stemming reduces words to their root form.
+What is lemmatization? (215),Lemmatization converts words to base form.
+What is data science? (216),Data science extracts insights from data.
+What is data preprocessing? (217),Data preprocessing cleans raw data.
+What is feature extraction? (218),Feature extraction converts data into features.
+What is data visualization? (219),Visualization represents data graphically.
+What is a dataset? (220),A dataset is a collection of data.
+What is machine learning? (221),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (222),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (223),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (224),Overfitting happens when a model memorizes training data.
+What is underfitting? (225),Underfitting occurs when a model is too simple.
+What is Python? (226),Python is a high-level programming language.
+What are Python lists? (227),Lists are ordered and mutable collections in Python.
+What is a function in Python? (228),A function is a reusable block of code.
+What is a dictionary? (229),A dictionary stores data in key-value pairs.
+What is indentation? (230),Indentation defines code blocks in Python.
+What is NLP? (231),NLP enables computers to understand human language.
+What is tokenization? (232),Tokenization splits text into words or tokens.
+What is TF-IDF? (233),TF-IDF measures word importance in documents.
+What is stemming? (234),Stemming reduces words to their root form.
+What is lemmatization? (235),Lemmatization converts words to base form.
+What is data science? (236),Data science extracts insights from data.
+What is data preprocessing? (237),Data preprocessing cleans raw data.
+What is feature extraction? (238),Feature extraction converts data into features.
+What is data visualization? (239),Visualization represents data graphically.
+What is a dataset? (240),A dataset is a collection of data.
+What is machine learning? (241),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (242),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (243),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (244),Overfitting happens when a model memorizes training data.
+What is underfitting? (245),Underfitting occurs when a model is too simple.
+What is Python? (246),Python is a high-level programming language.
+What are Python lists? (247),Lists are ordered and mutable collections in Python.
+What is a function in Python? (248),A function is a reusable block of code.
+What is a dictionary? (249),A dictionary stores data in key-value pairs.
+What is indentation? (250),Indentation defines code blocks in Python.
+What is NLP? (251),NLP enables computers to understand human language.
+What is tokenization? (252),Tokenization splits text into words or tokens.
+What is TF-IDF? (253),TF-IDF measures word importance in documents.
+What is stemming? (254),Stemming reduces words to their root form.
+What is lemmatization? (255),Lemmatization converts words to base form.
+What is data science? (256),Data science extracts insights from data.
+What is data preprocessing? (257),Data preprocessing cleans raw data.
+What is feature extraction? (258),Feature extraction converts data into features.
+What is data visualization? (259),Visualization represents data graphically.
+What is a dataset? (260),A dataset is a collection of data.
+What is machine learning? (261),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (262),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (263),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (264),Overfitting happens when a model memorizes training data.
+What is underfitting? (265),Underfitting occurs when a model is too simple.
+What is Python? (266),Python is a high-level programming language.
+What are Python lists? (267),Lists are ordered and mutable collections in Python.
+What is a function in Python? (268),A function is a reusable block of code.
+What is a dictionary? (269),A dictionary stores data in key-value pairs.
+What is indentation? (270),Indentation defines code blocks in Python.
+What is NLP? (271),NLP enables computers to understand human language.
+What is tokenization? (272),Tokenization splits text into words or tokens.
+What is TF-IDF? (273),TF-IDF measures word importance in documents.
+What is stemming? (274),Stemming reduces words to their root form.
+What is lemmatization? (275),Lemmatization converts words to base form.
+What is data science? (276),Data science extracts insights from data.
+What is data preprocessing? (277),Data preprocessing cleans raw data.
+What is feature extraction? (278),Feature extraction converts data into features.
+What is data visualization? (279),Visualization represents data graphically.
+What is a dataset? (280),A dataset is a collection of data.
+What is machine learning? (281),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (282),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (283),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (284),Overfitting happens when a model memorizes training data.
+What is underfitting? (285),Underfitting occurs when a model is too simple.
+What is Python? (286),Python is a high-level programming language.
+What are Python lists? (287),Lists are ordered and mutable collections in Python.
+What is a function in Python? (288),A function is a reusable block of code.
+What is a dictionary? (289),A dictionary stores data in key-value pairs.
+What is indentation? (290),Indentation defines code blocks in Python.
+What is NLP? (291),NLP enables computers to understand human language.
+What is tokenization? (292),Tokenization splits text into words or tokens.
+What is TF-IDF? (293),TF-IDF measures word importance in documents.
+What is stemming? (294),Stemming reduces words to their root form.
+What is lemmatization? (295),Lemmatization converts words to base form.
+What is data science? (296),Data science extracts insights from data.
+What is data preprocessing? (297),Data preprocessing cleans raw data.
+What is feature extraction? (298),Feature extraction converts data into features.
+What is data visualization? (299),Visualization represents data graphically.
+What is a dataset? (300),A dataset is a collection of data.
+What is machine learning? (301),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (302),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (303),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (304),Overfitting happens when a model memorizes training data.
+What is underfitting? (305),Underfitting occurs when a model is too simple.
+What is Python? (306),Python is a high-level programming language.
+What are Python lists? (307),Lists are ordered and mutable collections in Python.
+What is a function in Python? (308),A function is a reusable block of code.
+What is a dictionary? (309),A dictionary stores data in key-value pairs.
+What is indentation? (310),Indentation defines code blocks in Python.
+What is NLP? (311),NLP enables computers to understand human language.
+What is tokenization? (312),Tokenization splits text into words or tokens.
+What is TF-IDF? (313),TF-IDF measures word importance in documents.
+What is stemming? (314),Stemming reduces words to their root form.
+What is lemmatization? (315),Lemmatization converts words to base form.
+What is data science? (316),Data science extracts insights from data.
+What is data preprocessing? (317),Data preprocessing cleans raw data.
+What is feature extraction? (318),Feature extraction converts data into features.
+What is data visualization? (319),Visualization represents data graphically.
+What is a dataset? (320),A dataset is a collection of data.
+What is machine learning? (321),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (322),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (323),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (324),Overfitting happens when a model memorizes training data.
+What is underfitting? (325),Underfitting occurs when a model is too simple.
+What is Python? (326),Python is a high-level programming language.
+What are Python lists? (327),Lists are ordered and mutable collections in Python.
+What is a function in Python? (328),A function is a reusable block of code.
+What is a dictionary? (329),A dictionary stores data in key-value pairs.
+What is indentation? (330),Indentation defines code blocks in Python.
+What is NLP? (331),NLP enables computers to understand human language.
+What is tokenization? (332),Tokenization splits text into words or tokens.
+What is TF-IDF? (333),TF-IDF measures word importance in documents.
+What is stemming? (334),Stemming reduces words to their root form.
+What is lemmatization? (335),Lemmatization converts words to base form.
+What is data science? (336),Data science extracts insights from data.
+What is data preprocessing? (337),Data preprocessing cleans raw data.
+What is feature extraction? (338),Feature extraction converts data into features.
+What is data visualization? (339),Visualization represents data graphically.
+What is a dataset? (340),A dataset is a collection of data.
+What is machine learning? (341),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (342),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (343),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (344),Overfitting happens when a model memorizes training data.
+What is underfitting? (345),Underfitting occurs when a model is too simple.
+What is Python? (346),Python is a high-level programming language.
+What are Python lists? (347),Lists are ordered and mutable collections in Python.
+What is a function in Python? (348),A function is a reusable block of code.
+What is a dictionary? (349),A dictionary stores data in key-value pairs.
+What is indentation? (350),Indentation defines code blocks in Python.
+What is NLP? (351),NLP enables computers to understand human language.
+What is tokenization? (352),Tokenization splits text into words or tokens.
+What is TF-IDF? (353),TF-IDF measures word importance in documents.
+What is stemming? (354),Stemming reduces words to their root form.
+What is lemmatization? (355),Lemmatization converts words to base form.
+What is data science? (356),Data science extracts insights from data.
+What is data preprocessing? (357),Data preprocessing cleans raw data.
+What is feature extraction? (358),Feature extraction converts data into features.
+What is data visualization? (359),Visualization represents data graphically.
+What is a dataset? (360),A dataset is a collection of data.
+What is machine learning? (361),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (362),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (363),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (364),Overfitting happens when a model memorizes training data.
+What is underfitting? (365),Underfitting occurs when a model is too simple.
+What is Python? (366),Python is a high-level programming language.
+What are Python lists? (367),Lists are ordered and mutable collections in Python.
+What is a function in Python? (368),A function is a reusable block of code.
+What is a dictionary? (369),A dictionary stores data in key-value pairs.
+What is indentation? (370),Indentation defines code blocks in Python.
+What is NLP? (371),NLP enables computers to understand human language.
+What is tokenization? (372),Tokenization splits text into words or tokens.
+What is TF-IDF? (373),TF-IDF measures word importance in documents.
+What is stemming? (374),Stemming reduces words to their root form.
+What is lemmatization? (375),Lemmatization converts words to base form.
+What is data science? (376),Data science extracts insights from data.
+What is data preprocessing? (377),Data preprocessing cleans raw data.
+What is feature extraction? (378),Feature extraction converts data into features.
+What is data visualization? (379),Visualization represents data graphically.
+What is a dataset? (380),A dataset is a collection of data.
+What is machine learning? (381),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (382),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (383),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (384),Overfitting happens when a model memorizes training data.
+What is underfitting? (385),Underfitting occurs when a model is too simple.
+What is Python? (386),Python is a high-level programming language.
+What are Python lists? (387),Lists are ordered and mutable collections in Python.
+What is a function in Python? (388),A function is a reusable block of code.
+What is a dictionary? (389),A dictionary stores data in key-value pairs.
+What is indentation? (390),Indentation defines code blocks in Python.
+What is NLP? (391),NLP enables computers to understand human language.
+What is tokenization? (392),Tokenization splits text into words or tokens.
+What is TF-IDF? (393),TF-IDF measures word importance in documents.
+What is stemming? (394),Stemming reduces words to their root form.
+What is lemmatization? (395),Lemmatization converts words to base form.
+What is data science? (396),Data science extracts insights from data.
+What is data preprocessing? (397),Data preprocessing cleans raw data.
+What is feature extraction? (398),Feature extraction converts data into features.
+What is data visualization? (399),Visualization represents data graphically.
+What is a dataset? (400),A dataset is a collection of data.
+What is machine learning? (401),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (402),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (403),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (404),Overfitting happens when a model memorizes training data.
+What is underfitting? (405),Underfitting occurs when a model is too simple.
+What is Python? (406),Python is a high-level programming language.
+What are Python lists? (407),Lists are ordered and mutable collections in Python.
+What is a function in Python? (408),A function is a reusable block of code.
+What is a dictionary? (409),A dictionary stores data in key-value pairs.
+What is indentation? (410),Indentation defines code blocks in Python.
+What is NLP? (411),NLP enables computers to understand human language.
+What is tokenization? (412),Tokenization splits text into words or tokens.
+What is TF-IDF? (413),TF-IDF measures word importance in documents.
+What is stemming? (414),Stemming reduces words to their root form.
+What is lemmatization? (415),Lemmatization converts words to base form.
+What is data science? (416),Data science extracts insights from data.
+What is data preprocessing? (417),Data preprocessing cleans raw data.
+What is feature extraction? (418),Feature extraction converts data into features.
+What is data visualization? (419),Visualization represents data graphically.
+What is a dataset? (420),A dataset is a collection of data.
+What is machine learning? (421),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (422),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (423),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (424),Overfitting happens when a model memorizes training data.
+What is underfitting? (425),Underfitting occurs when a model is too simple.
+What is Python? (426),Python is a high-level programming language.
+What are Python lists? (427),Lists are ordered and mutable collections in Python.
+What is a function in Python? (428),A function is a reusable block of code.
+What is a dictionary? (429),A dictionary stores data in key-value pairs.
+What is indentation? (430),Indentation defines code blocks in Python.
+What is NLP? (431),NLP enables computers to understand human language.
+What is tokenization? (432),Tokenization splits text into words or tokens.
+What is TF-IDF? (433),TF-IDF measures word importance in documents.
+What is stemming? (434),Stemming reduces words to their root form.
+What is lemmatization? (435),Lemmatization converts words to base form.
+What is data science? (436),Data science extracts insights from data.
+What is data preprocessing? (437),Data preprocessing cleans raw data.
+What is feature extraction? (438),Feature extraction converts data into features.
+What is data visualization? (439),Visualization represents data graphically.
+What is a dataset? (440),A dataset is a collection of data.
+What is machine learning? (441),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (442),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (443),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (444),Overfitting happens when a model memorizes training data.
+What is underfitting? (445),Underfitting occurs when a model is too simple.
+What is Python? (446),Python is a high-level programming language.
+What are Python lists? (447),Lists are ordered and mutable collections in Python.
+What is a function in Python? (448),A function is a reusable block of code.
+What is a dictionary? (449),A dictionary stores data in key-value pairs.
+What is indentation? (450),Indentation defines code blocks in Python.
+What is NLP? (451),NLP enables computers to understand human language.
+What is tokenization? (452),Tokenization splits text into words or tokens.
+What is TF-IDF? (453),TF-IDF measures word importance in documents.
+What is stemming? (454),Stemming reduces words to their root form.
+What is lemmatization? (455),Lemmatization converts words to base form.
+What is data science? (456),Data science extracts insights from data.
+What is data preprocessing? (457),Data preprocessing cleans raw data.
+What is feature extraction? (458),Feature extraction converts data into features.
+What is data visualization? (459),Visualization represents data graphically.
+What is a dataset? (460),A dataset is a collection of data.
+What is machine learning? (461),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (462),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (463),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (464),Overfitting happens when a model memorizes training data.
+What is underfitting? (465),Underfitting occurs when a model is too simple.
+What is Python? (466),Python is a high-level programming language.
+What are Python lists? (467),Lists are ordered and mutable collections in Python.
+What is a function in Python? (468),A function is a reusable block of code.
+What is a dictionary? (469),A dictionary stores data in key-value pairs.
+What is indentation? (470),Indentation defines code blocks in Python.
+What is NLP? (471),NLP enables computers to understand human language.
+What is tokenization? (472),Tokenization splits text into words or tokens.
+What is TF-IDF? (473),TF-IDF measures word importance in documents.
+What is stemming? (474),Stemming reduces words to their root form.
+What is lemmatization? (475),Lemmatization converts words to base form.
+What is data science? (476),Data science extracts insights from data.
+What is data preprocessing? (477),Data preprocessing cleans raw data.
+What is feature extraction? (478),Feature extraction converts data into features.
+What is data visualization? (479),Visualization represents data graphically.
+What is a dataset? (480),A dataset is a collection of data.
+What is machine learning? (481),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (482),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (483),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (484),Overfitting happens when a model memorizes training data.
+What is underfitting? (485),Underfitting occurs when a model is too simple.
+What is Python? (486),Python is a high-level programming language.
+What are Python lists? (487),Lists are ordered and mutable collections in Python.
+What is a function in Python? (488),A function is a reusable block of code.
+What is a dictionary? (489),A dictionary stores data in key-value pairs.
+What is indentation? (490),Indentation defines code blocks in Python.
+What is NLP? (491),NLP enables computers to understand human language.
+What is tokenization? (492),Tokenization splits text into words or tokens.
+What is TF-IDF? (493),TF-IDF measures word importance in documents.
+What is stemming? (494),Stemming reduces words to their root form.
+What is lemmatization? (495),Lemmatization converts words to base form.
+What is data science? (496),Data science extracts insights from data.
+What is data preprocessing? (497),Data preprocessing cleans raw data.
+What is feature extraction? (498),Feature extraction converts data into features.
+What is data visualization? (499),Visualization represents data graphically.
+What is a dataset? (500),A dataset is a collection of data.
+What is machine learning? (501),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (502),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (503),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (504),Overfitting happens when a model memorizes training data.
+What is underfitting? (505),Underfitting occurs when a model is too simple.
+What is Python? (506),Python is a high-level programming language.
+What are Python lists? (507),Lists are ordered and mutable collections in Python.
+What is a function in Python? (508),A function is a reusable block of code.
+What is a dictionary? (509),A dictionary stores data in key-value pairs.
+What is indentation? (510),Indentation defines code blocks in Python.
+What is NLP? (511),NLP enables computers to understand human language.
+What is tokenization? (512),Tokenization splits text into words or tokens.
+What is TF-IDF? (513),TF-IDF measures word importance in documents.
+What is stemming? (514),Stemming reduces words to their root form.
+What is lemmatization? (515),Lemmatization converts words to base form.
+What is data science? (516),Data science extracts insights from data.
+What is data preprocessing? (517),Data preprocessing cleans raw data.
+What is feature extraction? (518),Feature extraction converts data into features.
+What is data visualization? (519),Visualization represents data graphically.
+What is a dataset? (520),A dataset is a collection of data.
+What is machine learning? (521),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (522),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (523),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (524),Overfitting happens when a model memorizes training data.
+What is underfitting? (525),Underfitting occurs when a model is too simple.
+What is Python? (526),Python is a high-level programming language.
+What are Python lists? (527),Lists are ordered and mutable collections in Python.
+What is a function in Python? (528),A function is a reusable block of code.
+What is a dictionary? (529),A dictionary stores data in key-value pairs.
+What is indentation? (530),Indentation defines code blocks in Python.
+What is NLP? (531),NLP enables computers to understand human language.
+What is tokenization? (532),Tokenization splits text into words or tokens.
+What is TF-IDF? (533),TF-IDF measures word importance in documents.
+What is stemming? (534),Stemming reduces words to their root form.
+What is lemmatization? (535),Lemmatization converts words to base form.
+What is data science? (536),Data science extracts insights from data.
+What is data preprocessing? (537),Data preprocessing cleans raw data.
+What is feature extraction? (538),Feature extraction converts data into features.
+What is data visualization? (539),Visualization represents data graphically.
+What is a dataset? (540),A dataset is a collection of data.
+What is machine learning? (541),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (542),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (543),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (544),Overfitting happens when a model memorizes training data.
+What is underfitting? (545),Underfitting occurs when a model is too simple.
+What is Python? (546),Python is a high-level programming language.
+What are Python lists? (547),Lists are ordered and mutable collections in Python.
+What is a function in Python? (548),A function is a reusable block of code.
+What is a dictionary? (549),A dictionary stores data in key-value pairs.
+What is indentation? (550),Indentation defines code blocks in Python.
+What is NLP? (551),NLP enables computers to understand human language.
+What is tokenization? (552),Tokenization splits text into words or tokens.
+What is TF-IDF? (553),TF-IDF measures word importance in documents.
+What is stemming? (554),Stemming reduces words to their root form.
+What is lemmatization? (555),Lemmatization converts words to base form.
+What is data science? (556),Data science extracts insights from data.
+What is data preprocessing? (557),Data preprocessing cleans raw data.
+What is feature extraction? (558),Feature extraction converts data into features.
+What is data visualization? (559),Visualization represents data graphically.
+What is a dataset? (560),A dataset is a collection of data.
+What is machine learning? (561),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (562),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (563),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (564),Overfitting happens when a model memorizes training data.
+What is underfitting? (565),Underfitting occurs when a model is too simple.
+What is Python? (566),Python is a high-level programming language.
+What are Python lists? (567),Lists are ordered and mutable collections in Python.
+What is a function in Python? (568),A function is a reusable block of code.
+What is a dictionary? (569),A dictionary stores data in key-value pairs.
+What is indentation? (570),Indentation defines code blocks in Python.
+What is NLP? (571),NLP enables computers to understand human language.
+What is tokenization? (572),Tokenization splits text into words or tokens.
+What is TF-IDF? (573),TF-IDF measures word importance in documents.
+What is stemming? (574),Stemming reduces words to their root form.
+What is lemmatization? (575),Lemmatization converts words to base form.
+What is data science? (576),Data science extracts insights from data.
+What is data preprocessing? (577),Data preprocessing cleans raw data.
+What is feature extraction? (578),Feature extraction converts data into features.
+What is data visualization? (579),Visualization represents data graphically.
+What is a dataset? (580),A dataset is a collection of data.
+What is machine learning? (581),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (582),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (583),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (584),Overfitting happens when a model memorizes training data.
+What is underfitting? (585),Underfitting occurs when a model is too simple.
+What is Python? (586),Python is a high-level programming language.
+What are Python lists? (587),Lists are ordered and mutable collections in Python.
+What is a function in Python? (588),A function is a reusable block of code.
+What is a dictionary? (589),A dictionary stores data in key-value pairs.
+What is indentation? (590),Indentation defines code blocks in Python.
+What is NLP? (591),NLP enables computers to understand human language.
+What is tokenization? (592),Tokenization splits text into words or tokens.
+What is TF-IDF? (593),TF-IDF measures word importance in documents.
+What is stemming? (594),Stemming reduces words to their root form.
+What is lemmatization? (595),Lemmatization converts words to base form.
+What is data science? (596),Data science extracts insights from data.
+What is data preprocessing? (597),Data preprocessing cleans raw data.
+What is feature extraction? (598),Feature extraction converts data into features.
+What is data visualization? (599),Visualization represents data graphically.
+What is a dataset? (600),A dataset is a collection of data.
+What is machine learning? (601),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (602),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (603),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (604),Overfitting happens when a model memorizes training data.
+What is underfitting? (605),Underfitting occurs when a model is too simple.
+What is Python? (606),Python is a high-level programming language.
+What are Python lists? (607),Lists are ordered and mutable collections in Python.
+What is a function in Python? (608),A function is a reusable block of code.
+What is a dictionary? (609),A dictionary stores data in key-value pairs.
+What is indentation? (610),Indentation defines code blocks in Python.
+What is NLP? (611),NLP enables computers to understand human language.
+What is tokenization? (612),Tokenization splits text into words or tokens.
+What is TF-IDF? (613),TF-IDF measures word importance in documents.
+What is stemming? (614),Stemming reduces words to their root form.
+What is lemmatization? (615),Lemmatization converts words to base form.
+What is data science? (616),Data science extracts insights from data.
+What is data preprocessing? (617),Data preprocessing cleans raw data.
+What is feature extraction? (618),Feature extraction converts data into features.
+What is data visualization? (619),Visualization represents data graphically.
+What is a dataset? (620),A dataset is a collection of data.
+What is machine learning? (621),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (622),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (623),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (624),Overfitting happens when a model memorizes training data.
+What is underfitting? (625),Underfitting occurs when a model is too simple.
+What is Python? (626),Python is a high-level programming language.
+What are Python lists? (627),Lists are ordered and mutable collections in Python.
+What is a function in Python? (628),A function is a reusable block of code.
+What is a dictionary? (629),A dictionary stores data in key-value pairs.
+What is indentation? (630),Indentation defines code blocks in Python.
+What is NLP? (631),NLP enables computers to understand human language.
+What is tokenization? (632),Tokenization splits text into words or tokens.
+What is TF-IDF? (633),TF-IDF measures word importance in documents.
+What is stemming? (634),Stemming reduces words to their root form.
+What is lemmatization? (635),Lemmatization converts words to base form.
+What is data science? (636),Data science extracts insights from data.
+What is data preprocessing? (637),Data preprocessing cleans raw data.
+What is feature extraction? (638),Feature extraction converts data into features.
+What is data visualization? (639),Visualization represents data graphically.
+What is a dataset? (640),A dataset is a collection of data.
+What is machine learning? (641),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (642),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (643),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (644),Overfitting happens when a model memorizes training data.
+What is underfitting? (645),Underfitting occurs when a model is too simple.
+What is Python? (646),Python is a high-level programming language.
+What are Python lists? (647),Lists are ordered and mutable collections in Python.
+What is a function in Python? (648),A function is a reusable block of code.
+What is a dictionary? (649),A dictionary stores data in key-value pairs.
+What is indentation? (650),Indentation defines code blocks in Python.
+What is NLP? (651),NLP enables computers to understand human language.
+What is tokenization? (652),Tokenization splits text into words or tokens.
+What is TF-IDF? (653),TF-IDF measures word importance in documents.
+What is stemming? (654),Stemming reduces words to their root form.
+What is lemmatization? (655),Lemmatization converts words to base form.
+What is data science? (656),Data science extracts insights from data.
+What is data preprocessing? (657),Data preprocessing cleans raw data.
+What is feature extraction? (658),Feature extraction converts data into features.
+What is data visualization? (659),Visualization represents data graphically.
+What is a dataset? (660),A dataset is a collection of data.
+What is machine learning? (661),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (662),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (663),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (664),Overfitting happens when a model memorizes training data.
+What is underfitting? (665),Underfitting occurs when a model is too simple.
+What is Python? (666),Python is a high-level programming language.
+What are Python lists? (667),Lists are ordered and mutable collections in Python.
+What is a function in Python? (668),A function is a reusable block of code.
+What is a dictionary? (669),A dictionary stores data in key-value pairs.
+What is indentation? (670),Indentation defines code blocks in Python.
+What is NLP? (671),NLP enables computers to understand human language.
+What is tokenization? (672),Tokenization splits text into words or tokens.
+What is TF-IDF? (673),TF-IDF measures word importance in documents.
+What is stemming? (674),Stemming reduces words to their root form.
+What is lemmatization? (675),Lemmatization converts words to base form.
+What is data science? (676),Data science extracts insights from data.
+What is data preprocessing? (677),Data preprocessing cleans raw data.
+What is feature extraction? (678),Feature extraction converts data into features.
+What is data visualization? (679),Visualization represents data graphically.
+What is a dataset? (680),A dataset is a collection of data.
+What is machine learning? (681),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (682),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (683),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (684),Overfitting happens when a model memorizes training data.
+What is underfitting? (685),Underfitting occurs when a model is too simple.
+What is Python? (686),Python is a high-level programming language.
+What are Python lists? (687),Lists are ordered and mutable collections in Python.
+What is a function in Python? (688),A function is a reusable block of code.
+What is a dictionary? (689),A dictionary stores data in key-value pairs.
+What is indentation? (690),Indentation defines code blocks in Python.
+What is NLP? (691),NLP enables computers to understand human language.
+What is tokenization? (692),Tokenization splits text into words or tokens.
+What is TF-IDF? (693),TF-IDF measures word importance in documents.
+What is stemming? (694),Stemming reduces words to their root form.
+What is lemmatization? (695),Lemmatization converts words to base form.
+What is data science? (696),Data science extracts insights from data.
+What is data preprocessing? (697),Data preprocessing cleans raw data.
+What is feature extraction? (698),Feature extraction converts data into features.
+What is data visualization? (699),Visualization represents data graphically.
+What is a dataset? (700),A dataset is a collection of data.
+What is machine learning? (701),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (702),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (703),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (704),Overfitting happens when a model memorizes training data.
+What is underfitting? (705),Underfitting occurs when a model is too simple.
+What is Python? (706),Python is a high-level programming language.
+What are Python lists? (707),Lists are ordered and mutable collections in Python.
+What is a function in Python? (708),A function is a reusable block of code.
+What is a dictionary? (709),A dictionary stores data in key-value pairs.
+What is indentation? (710),Indentation defines code blocks in Python.
+What is NLP? (711),NLP enables computers to understand human language.
+What is tokenization? (712),Tokenization splits text into words or tokens.
+What is TF-IDF? (713),TF-IDF measures word importance in documents.
+What is stemming? (714),Stemming reduces words to their root form.
+What is lemmatization? (715),Lemmatization converts words to base form.
+What is data science? (716),Data science extracts insights from data.
+What is data preprocessing? (717),Data preprocessing cleans raw data.
+What is feature extraction? (718),Feature extraction converts data into features.
+What is data visualization? (719),Visualization represents data graphically.
+What is a dataset? (720),A dataset is a collection of data.
+What is machine learning? (721),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (722),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (723),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (724),Overfitting happens when a model memorizes training data.
+What is underfitting? (725),Underfitting occurs when a model is too simple.
+What is Python? (726),Python is a high-level programming language.
+What are Python lists? (727),Lists are ordered and mutable collections in Python.
+What is a function in Python? (728),A function is a reusable block of code.
+What is a dictionary? (729),A dictionary stores data in key-value pairs.
+What is indentation? (730),Indentation defines code blocks in Python.
+What is NLP? (731),NLP enables computers to understand human language.
+What is tokenization? (732),Tokenization splits text into words or tokens.
+What is TF-IDF? (733),TF-IDF measures word importance in documents.
+What is stemming? (734),Stemming reduces words to their root form.
+What is lemmatization? (735),Lemmatization converts words to base form.
+What is data science? (736),Data science extracts insights from data.
+What is data preprocessing? (737),Data preprocessing cleans raw data.
+What is feature extraction? (738),Feature extraction converts data into features.
+What is data visualization? (739),Visualization represents data graphically.
+What is a dataset? (740),A dataset is a collection of data.
+What is machine learning? (741),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (742),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (743),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (744),Overfitting happens when a model memorizes training data.
+What is underfitting? (745),Underfitting occurs when a model is too simple.
+What is Python? (746),Python is a high-level programming language.
+What are Python lists? (747),Lists are ordered and mutable collections in Python.
+What is a function in Python? (748),A function is a reusable block of code.
+What is a dictionary? (749),A dictionary stores data in key-value pairs.
+What is indentation? (750),Indentation defines code blocks in Python.
+What is NLP? (751),NLP enables computers to understand human language.
+What is tokenization? (752),Tokenization splits text into words or tokens.
+What is TF-IDF? (753),TF-IDF measures word importance in documents.
+What is stemming? (754),Stemming reduces words to their root form.
+What is lemmatization? (755),Lemmatization converts words to base form.
+What is data science? (756),Data science extracts insights from data.
+What is data preprocessing? (757),Data preprocessing cleans raw data.
+What is feature extraction? (758),Feature extraction converts data into features.
+What is data visualization? (759),Visualization represents data graphically.
+What is a dataset? (760),A dataset is a collection of data.
+What is machine learning? (761),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (762),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (763),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (764),Overfitting happens when a model memorizes training data.
+What is underfitting? (765),Underfitting occurs when a model is too simple.
+What is Python? (766),Python is a high-level programming language.
+What are Python lists? (767),Lists are ordered and mutable collections in Python.
+What is a function in Python? (768),A function is a reusable block of code.
+What is a dictionary? (769),A dictionary stores data in key-value pairs.
+What is indentation? (770),Indentation defines code blocks in Python.
+What is NLP? (771),NLP enables computers to understand human language.
+What is tokenization? (772),Tokenization splits text into words or tokens.
+What is TF-IDF? (773),TF-IDF measures word importance in documents.
+What is stemming? (774),Stemming reduces words to their root form.
+What is lemmatization? (775),Lemmatization converts words to base form.
+What is data science? (776),Data science extracts insights from data.
+What is data preprocessing? (777),Data preprocessing cleans raw data.
+What is feature extraction? (778),Feature extraction converts data into features.
+What is data visualization? (779),Visualization represents data graphically.
+What is a dataset? (780),A dataset is a collection of data.
+What is machine learning? (781),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (782),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (783),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (784),Overfitting happens when a model memorizes training data.
+What is underfitting? (785),Underfitting occurs when a model is too simple.
+What is Python? (786),Python is a high-level programming language.
+What are Python lists? (787),Lists are ordered and mutable collections in Python.
+What is a function in Python? (788),A function is a reusable block of code.
+What is a dictionary? (789),A dictionary stores data in key-value pairs.
+What is indentation? (790),Indentation defines code blocks in Python.
+What is NLP? (791),NLP enables computers to understand human language.
+What is tokenization? (792),Tokenization splits text into words or tokens.
+What is TF-IDF? (793),TF-IDF measures word importance in documents.
+What is stemming? (794),Stemming reduces words to their root form.
+What is lemmatization? (795),Lemmatization converts words to base form.
+What is data science? (796),Data science extracts insights from data.
+What is data preprocessing? (797),Data preprocessing cleans raw data.
+What is feature extraction? (798),Feature extraction converts data into features.
+What is data visualization? (799),Visualization represents data graphically.
+What is a dataset? (800),A dataset is a collection of data.
+What is machine learning? (801),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (802),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (803),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (804),Overfitting happens when a model memorizes training data.
+What is underfitting? (805),Underfitting occurs when a model is too simple.
+What is Python? (806),Python is a high-level programming language.
+What are Python lists? (807),Lists are ordered and mutable collections in Python.
+What is a function in Python? (808),A function is a reusable block of code.
+What is a dictionary? (809),A dictionary stores data in key-value pairs.
+What is indentation? (810),Indentation defines code blocks in Python.
+What is NLP? (811),NLP enables computers to understand human language.
+What is tokenization? (812),Tokenization splits text into words or tokens.
+What is TF-IDF? (813),TF-IDF measures word importance in documents.
+What is stemming? (814),Stemming reduces words to their root form.
+What is lemmatization? (815),Lemmatization converts words to base form.
+What is data science? (816),Data science extracts insights from data.
+What is data preprocessing? (817),Data preprocessing cleans raw data.
+What is feature extraction? (818),Feature extraction converts data into features.
+What is data visualization? (819),Visualization represents data graphically.
+What is a dataset? (820),A dataset is a collection of data.
+What is machine learning? (821),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (822),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (823),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (824),Overfitting happens when a model memorizes training data.
+What is underfitting? (825),Underfitting occurs when a model is too simple.
+What is Python? (826),Python is a high-level programming language.
+What are Python lists? (827),Lists are ordered and mutable collections in Python.
+What is a function in Python? (828),A function is a reusable block of code.
+What is a dictionary? (829),A dictionary stores data in key-value pairs.
+What is indentation? (830),Indentation defines code blocks in Python.
+What is NLP? (831),NLP enables computers to understand human language.
+What is tokenization? (832),Tokenization splits text into words or tokens.
+What is TF-IDF? (833),TF-IDF measures word importance in documents.
+What is stemming? (834),Stemming reduces words to their root form.
+What is lemmatization? (835),Lemmatization converts words to base form.
+What is data science? (836),Data science extracts insights from data.
+What is data preprocessing? (837),Data preprocessing cleans raw data.
+What is feature extraction? (838),Feature extraction converts data into features.
+What is data visualization? (839),Visualization represents data graphically.
+What is a dataset? (840),A dataset is a collection of data.
+What is machine learning? (841),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (842),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (843),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (844),Overfitting happens when a model memorizes training data.
+What is underfitting? (845),Underfitting occurs when a model is too simple.
+What is Python? (846),Python is a high-level programming language.
+What are Python lists? (847),Lists are ordered and mutable collections in Python.
+What is a function in Python? (848),A function is a reusable block of code.
+What is a dictionary? (849),A dictionary stores data in key-value pairs.
+What is indentation? (850),Indentation defines code blocks in Python.
+What is NLP? (851),NLP enables computers to understand human language.
+What is tokenization? (852),Tokenization splits text into words or tokens.
+What is TF-IDF? (853),TF-IDF measures word importance in documents.
+What is stemming? (854),Stemming reduces words to their root form.
+What is lemmatization? (855),Lemmatization converts words to base form.
+What is data science? (856),Data science extracts insights from data.
+What is data preprocessing? (857),Data preprocessing cleans raw data.
+What is feature extraction? (858),Feature extraction converts data into features.
+What is data visualization? (859),Visualization represents data graphically.
+What is a dataset? (860),A dataset is a collection of data.
+What is machine learning? (861),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (862),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (863),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (864),Overfitting happens when a model memorizes training data.
+What is underfitting? (865),Underfitting occurs when a model is too simple.
+What is Python? (866),Python is a high-level programming language.
+What are Python lists? (867),Lists are ordered and mutable collections in Python.
+What is a function in Python? (868),A function is a reusable block of code.
+What is a dictionary? (869),A dictionary stores data in key-value pairs.
+What is indentation? (870),Indentation defines code blocks in Python.
+What is NLP? (871),NLP enables computers to understand human language.
+What is tokenization? (872),Tokenization splits text into words or tokens.
+What is TF-IDF? (873),TF-IDF measures word importance in documents.
+What is stemming? (874),Stemming reduces words to their root form.
+What is lemmatization? (875),Lemmatization converts words to base form.
+What is data science? (876),Data science extracts insights from data.
+What is data preprocessing? (877),Data preprocessing cleans raw data.
+What is feature extraction? (878),Feature extraction converts data into features.
+What is data visualization? (879),Visualization represents data graphically.
+What is a dataset? (880),A dataset is a collection of data.
+What is machine learning? (881),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (882),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (883),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (884),Overfitting happens when a model memorizes training data.
+What is underfitting? (885),Underfitting occurs when a model is too simple.
+What is Python? (886),Python is a high-level programming language.
+What are Python lists? (887),Lists are ordered and mutable collections in Python.
+What is a function in Python? (888),A function is a reusable block of code.
+What is a dictionary? (889),A dictionary stores data in key-value pairs.
+What is indentation? (890),Indentation defines code blocks in Python.
+What is NLP? (891),NLP enables computers to understand human language.
+What is tokenization? (892),Tokenization splits text into words or tokens.
+What is TF-IDF? (893),TF-IDF measures word importance in documents.
+What is stemming? (894),Stemming reduces words to their root form.
+What is lemmatization? (895),Lemmatization converts words to base form.
+What is data science? (896),Data science extracts insights from data.
+What is data preprocessing? (897),Data preprocessing cleans raw data.
+What is feature extraction? (898),Feature extraction converts data into features.
+What is data visualization? (899),Visualization represents data graphically.
+What is a dataset? (900),A dataset is a collection of data.
+What is machine learning? (901),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (902),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (903),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (904),Overfitting happens when a model memorizes training data.
+What is underfitting? (905),Underfitting occurs when a model is too simple.
+What is Python? (906),Python is a high-level programming language.
+What are Python lists? (907),Lists are ordered and mutable collections in Python.
+What is a function in Python? (908),A function is a reusable block of code.
+What is a dictionary? (909),A dictionary stores data in key-value pairs.
+What is indentation? (910),Indentation defines code blocks in Python.
+What is NLP? (911),NLP enables computers to understand human language.
+What is tokenization? (912),Tokenization splits text into words or tokens.
+What is TF-IDF? (913),TF-IDF measures word importance in documents.
+What is stemming? (914),Stemming reduces words to their root form.
+What is lemmatization? (915),Lemmatization converts words to base form.
+What is data science? (916),Data science extracts insights from data.
+What is data preprocessing? (917),Data preprocessing cleans raw data.
+What is feature extraction? (918),Feature extraction converts data into features.
+What is data visualization? (919),Visualization represents data graphically.
+What is a dataset? (920),A dataset is a collection of data.
+What is machine learning? (921),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (922),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (923),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (924),Overfitting happens when a model memorizes training data.
+What is underfitting? (925),Underfitting occurs when a model is too simple.
+What is Python? (926),Python is a high-level programming language.
+What are Python lists? (927),Lists are ordered and mutable collections in Python.
+What is a function in Python? (928),A function is a reusable block of code.
+What is a dictionary? (929),A dictionary stores data in key-value pairs.
+What is indentation? (930),Indentation defines code blocks in Python.
+What is NLP? (931),NLP enables computers to understand human language.
+What is tokenization? (932),Tokenization splits text into words or tokens.
+What is TF-IDF? (933),TF-IDF measures word importance in documents.
+What is stemming? (934),Stemming reduces words to their root form.
+What is lemmatization? (935),Lemmatization converts words to base form.
+What is data science? (936),Data science extracts insights from data.
+What is data preprocessing? (937),Data preprocessing cleans raw data.
+What is feature extraction? (938),Feature extraction converts data into features.
+What is data visualization? (939),Visualization represents data graphically.
+What is a dataset? (940),A dataset is a collection of data.
+What is machine learning? (941),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (942),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (943),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (944),Overfitting happens when a model memorizes training data.
+What is underfitting? (945),Underfitting occurs when a model is too simple.
+What is Python? (946),Python is a high-level programming language.
+What are Python lists? (947),Lists are ordered and mutable collections in Python.
+What is a function in Python? (948),A function is a reusable block of code.
+What is a dictionary? (949),A dictionary stores data in key-value pairs.
+What is indentation? (950),Indentation defines code blocks in Python.
+What is NLP? (951),NLP enables computers to understand human language.
+What is tokenization? (952),Tokenization splits text into words or tokens.
+What is TF-IDF? (953),TF-IDF measures word importance in documents.
+What is stemming? (954),Stemming reduces words to their root form.
+What is lemmatization? (955),Lemmatization converts words to base form.
+What is data science? (956),Data science extracts insights from data.
+What is data preprocessing? (957),Data preprocessing cleans raw data.
+What is feature extraction? (958),Feature extraction converts data into features.
+What is data visualization? (959),Visualization represents data graphically.
+What is a dataset? (960),A dataset is a collection of data.
+What is machine learning? (961),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (962),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (963),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (964),Overfitting happens when a model memorizes training data.
+What is underfitting? (965),Underfitting occurs when a model is too simple.
+What is Python? (966),Python is a high-level programming language.
+What are Python lists? (967),Lists are ordered and mutable collections in Python.
+What is a function in Python? (968),A function is a reusable block of code.
+What is a dictionary? (969),A dictionary stores data in key-value pairs.
+What is indentation? (970),Indentation defines code blocks in Python.
+What is NLP? (971),NLP enables computers to understand human language.
+What is tokenization? (972),Tokenization splits text into words or tokens.
+What is TF-IDF? (973),TF-IDF measures word importance in documents.
+What is stemming? (974),Stemming reduces words to their root form.
+What is lemmatization? (975),Lemmatization converts words to base form.
+What is data science? (976),Data science extracts insights from data.
+What is data preprocessing? (977),Data preprocessing cleans raw data.
+What is feature extraction? (978),Feature extraction converts data into features.
+What is data visualization? (979),Visualization represents data graphically.
+What is a dataset? (980),A dataset is a collection of data.
+What is machine learning? (981),Machine learning is a field of AI that enables systems to learn from data.
+What is supervised learning? (982),Supervised learning uses labeled data for training models.
+What is unsupervised learning? (983),Unsupervised learning finds patterns in unlabeled data.
+What is overfitting? (984),Overfitting happens when a model memorizes training data.
+What is underfitting? (985),Underfitting occurs when a model is too simple.
+What is Python? (986),Python is a high-level programming language.
+What are Python lists? (987),Lists are ordered and mutable collections in Python.
+What is a function in Python? (988),A function is a reusable block of code.
+What is a dictionary? (989),A dictionary stores data in key-value pairs.
+What is indentation? (990),Indentation defines code blocks in Python.
+What is NLP? (991),NLP enables computers to understand human language.
+What is tokenization? (992),Tokenization splits text into words or tokens.
+What is TF-IDF? (993),TF-IDF measures word importance in documents.
+What is stemming? (994),Stemming reduces words to their root form.
+What is lemmatization? (995),Lemmatization converts words to base form.
+What is data science? (996),Data science extracts insights from data.
+What is data preprocessing? (997),Data preprocessing cleans raw data.
+What is feature extraction? (998),Feature extraction converts data into features.
+What is data visualization? (999),Visualization represents data graphically.
+What is a dataset? (1000),A dataset is a collection of data.
